@@ -1,0 +1,10 @@
+export const SET_CONFIG = "SET_CONFIG";
+export const SET_SUPERMAN_MODE = "SET_SUPERMAN_MODE";
+export const INIT_GAME = "INIT_GAME";
+export const GAME_OVER = "GAME_OVER";
+export const GAME_DONE = "GAME_DONE";
+export const GAME_LOADING = "GAME_LOADING";
+export const CELL_CLICKED = "CELL_CLICKED";
+export const CELL_MARKED = "CELL_MARKED";
+export const NO_MORE_FLAGS = "NO_MORE_FLAGS";
+export const SET_TEMP_MESSAGE = "SET_TEMP_MESSAGE";
